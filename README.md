@@ -1,4 +1,4 @@
-<div style="text-align: center; max-width: 700px; margin: auto;">
+<div align="center">
   <h1>🥒 Pickle Queue</h1>
   <p>
     Projeto da <strong>UnAC IFES – Polo Viana</strong>, desenvolvido em grupo para simular uma fila de atendimento (FIFO)
