@@ -1,6 +1,12 @@
-# 🥒 Pickle Queue
+<div style="text-align: center; max-width: 700px; margin: auto;">
+  <h1>🥒 Pickle Queue</h1>
+  <p>
+    Projeto da <strong>UnAC IFES – Polo Viana</strong>, desenvolvido em grupo para simular uma fila de atendimento (FIFO)
+    com personagens da série <strong>Rick and Morty</strong>, utilizando a 
+    <a href="https://rickandmortyapi.com/" target="_blank">Rick and Morty API</a>.
+  </p>
+</div>
 
-Projeto da **UnAC IFES – Polo Viana**, desenvolvido em grupo para simular uma fila de atendimento (FIFO) com personagens da série **Rick and Morty**, utilizando a [Rick and Morty API](https://rickandmortyapi.com/).
 
 ## 🎯 Objetivo
 
@@ -44,6 +50,11 @@ pickle-queue/
 
 ---
 
+<div align="center">
+
 <img src="https://retromash.com/wp-content/uploads/2021/10/rickandmortybanner.jpg" alt="Rick and Morty Banner" width="600"/>
 
-_"Morty, a fila é só uma ilusão, mas a programação… bem, a programação é real!"_ — Rick Sanchez
+_<br>"Morty, a fila é só uma ilusão, mas a programação… bem, a programação é real!"_ — Rick Sanchez
+
+</div>
+
