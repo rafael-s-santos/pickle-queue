@@ -19,7 +19,7 @@ function renderCurrentCharacter(character) {
 }
 
 
-// Sons de entrada e saída
+
 const addSound = new Audio('add.mp3');
 const removeSound = new Audio('remove.mp3');
 
@@ -72,12 +72,12 @@ function removeCharacter() {
     firstCard.classList.remove("fade-in");
     firstCard.classList.add("fade-out");
 
-    // Espera a animação terminar antes de remover da fila
+   
     setTimeout(() => {
       queue.shift();
       removeSound.play();
       renderQueue();
-    }, 500); // tempo igual ao da animação
+    }, 500); 
   } else {
     alert("A fila está vazia!");
   }
@@ -86,5 +86,5 @@ function removeCharacter() {
 addBtn.addEventListener("click", addCharacter);
 removeBtn.addEventListener("click", attendCharacter);
 
-renderCurrentCharacter(null); // Oculta no início
+renderCurrentCharacter(null);
 
